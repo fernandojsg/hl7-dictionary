@@ -25,7 +25,7 @@ $ npm install hl7-dictionary
 
 Or get a browserified packaged source file:
 
-* All versions: 
+* All versions (Warning: huge file): 
     * [hl7dictionary.js](https://raw.githubusercontent.com/fernandojsg/hl7-dictionary/master/dist/hl7dictionary.js)
     * [hl7dictionary.min.js](https://raw.githubusercontent.com/fernandojsg/hl7-dictionary/master/dist/hl7dictionary.min.js)
 * 2.1
