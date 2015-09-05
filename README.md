@@ -28,6 +28,9 @@ Or get a browserified packaged source file:
 * All versions: 
     * [hl7dictionary.js](https://raw.githubusercontent.com/fernandojsg/hl7-dictionary/master/dist/hl7dictionary.js)
     * [hl7dictionary.min.js](https://raw.githubusercontent.com/fernandojsg/hl7-dictionary/master/dist/hl7dictionary.min.js)
+* 2.1
+    * [hl7dictionary.2.1.js](https://raw.githubusercontent.com/fernandojsg/hl7-dictionary/master/dist/hl7dictionary.2.1.js)
+    * [hl7dictionary.2.1.min.js](https://raw.githubusercontent.com/fernandojsg/hl7-dictionary/master/dist/hl7dictionary.2.1.min.js)
 * 2.2
     * [hl7dictionary.2.2.js](https://raw.githubusercontent.com/fernandojsg/hl7-dictionary/master/dist/hl7dictionary.2.2.js)
     * [hl7dictionary.2.2.min.js](https://raw.githubusercontent.com/fernandojsg/hl7-dictionary/master/dist/hl7dictionary.2.2.min.js)
