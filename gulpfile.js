@@ -26,7 +26,7 @@ function getBrowserify(entry, suffix) {
     });
 
     return b.bundle()
-        .pipe(source("hl7dictionary." + ( ( suffix == "all" ) ? "" : suffix ) + ".js"))
+        .pipe(source("hl7dictionary" + ( ( suffix == "all" ) ? "" : "." + suffix ) + ".js"))
         .pipe(buffer())
         .pipe(gulp.dest(DEST))
         .pipe(uglify())
