@@ -2,7 +2,7 @@
   "name": "hl7-dictionary",
   "version": "1.0.0",
   "description": "HL7 definition dictionary",
-  "main": "index.js",
+  "main": "lib/index.js",
   "license": "MIT",
   "author": {
     "name": "Fernando Serrano",
