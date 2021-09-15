@@ -37866,14 +37866,14 @@ var segments = {
             },
             {
                 "datatype": "CX",
-                "desc": "Patient ID",
+                "desc": "Patient ID (Internal ID)",
                 "opt": 1,
                 "rep": 1,
                 "len": 16
             },
             {
                 "datatype": "CX",
-                "desc": "Patient ID",
+                "desc": "Patient ID (External ID)",
                 "opt": 2,
                 "rep": 0,
                 "len": 20
